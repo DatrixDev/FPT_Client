@@ -1,0 +1,12 @@
+out/
+build/
+*.class
+*.jar
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+.env
+*.part
+ftp-downloads/
