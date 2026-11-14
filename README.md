@@ -23,7 +23,7 @@ Hoặc mở Terminal tại thư mục dự án rồi chạy `run.bat`.
 ## Chạy Linux/macOS
 
 Chạy `bash run.sh`.
-
+.
 ## Thiết lập FileZilla Server để demo
 
 1. Cài FileZilla Server và tạo người dùng FTP, ví dụ `demo` với mật khẩu riêng.
