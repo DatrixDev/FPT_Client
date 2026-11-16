@@ -1,6 +1,6 @@
 # FTP Client - Đồ án Lập trình mạng (Java Swing)
 
-Ứng dụng FTP Client tự viết bằng Java 17+ và TCP Socket, không dùng thư viện FTP có sẵn.
+Ứng dụng FTP Client tự viết bằng Java 17+ và TCP Socket, không dùng thư viện FTP có sẵn..
 
 ## Chức năng
 
